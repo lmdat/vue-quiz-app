@@ -7,7 +7,7 @@ composer install
 - I use the vue-cli version 3 to create the Vue project. Please install the vue-cli version 3 by the following command
 ```
 npm install -g @vue/cli
-
+```
 - Run the dev server:
 ```
 npm run serve
